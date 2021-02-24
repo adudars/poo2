@@ -1,2 +1,2 @@
-# poo2
-Repositório da disciplina de POO2
+## DESENVOLVIMENTO ORIENTADO A OBJETOS - EAD
+### 2020/2
